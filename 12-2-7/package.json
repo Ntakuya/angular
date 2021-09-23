@@ -1,5 +1,5 @@
 {
-  "name": "12-2-6",
+  "name": "12-2-7",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@angular/cli": "12.2.6"
+    "@angular/cli": "12.2.7"
   }
 }

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="2908931752694090721" datatype="html">
+        <source>Some &amp; attribute</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4700340487900776701" datatype="html">
+        <source>Some &amp; message</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2192507241536331751" datatype="html">
+        <source>Some &amp; <x id="INTERPOLATION" equiv-text="{{ &apos;interpolated&apos; }}"/> attribute</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5504137555058910768" datatype="html">
+        <source>Some &amp; <x id="INTERPOLATION" equiv-text="{{ &quot;interpolated&quot; }}"/> message</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2406634758623728945" datatype="html">
+        <source>&amp;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4156372478368653226" datatype="html">
+        <source>&amp;&quot;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2720535395337591908" datatype="html">
+        <source>&quot;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3600934704948217447" datatype="html">
+        <source>&quot;&quot;</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4906579891802234912" datatype="html">
+        <source>Interpolation: <x id="INTERPOLATION" equiv-text="{{ one }}"/> Interpolation: <x id="INTERPOLATION_1" equiv-text="{{ two }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/components/temp-page/temp-page.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4150330030790364157" datatype="html">
+        <source>Hello i18n!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/ng18i-check/layouts/ng18i-layout/ng18i-layout.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">An introduction header for this sample</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
