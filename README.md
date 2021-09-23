@@ -8,4 +8,5 @@
 |- README.md     // what is this repository
 |- 12-2-6        // this is cli version for @angualr/cli12.2.6
 |- 12-2-6-ssr    // this is cli version for @angualr/cli12.2.6 and SSR
+|- 12-2-7        // this is cli version for @angualr/cli12.2.7
 ```
