@@ -1,0 +1,23 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "## Directory Structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ntakuya/angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ntakuya/angular/issues"
+  },
+  "homepage": "https://github.com/Ntakuya/angular#readme",
+  "devDependencies": {
+    "lerna-cli": "^5.0.1"
+  }
+}
